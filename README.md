@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya;" />
 </h1>
 
-<h3 align="center">💻 Turning Myths into Reality (with Python and Flutter, not Magic)</h3>
+<h3 align="center">💻 Python/Application Developer | Turing myths into github repo</h3>
 
 ---
 
